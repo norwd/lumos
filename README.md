@@ -1,5 +1,8 @@
 # Lumos
 
+This is the font used in https://github.com/norwd/hpmor, which I have been Esperantising here.
+Originally created by Sarah McFalls, I claim no copy-right whatsoever, I just want "ŭ" to render properly!
+
 *From https://www.geocities.ws/carpesaponem/lumos.htm*
 
 > Lumos (v.1) is a freeware font inspired by the Harry Potter books. I made this font after long unsuccessful searches for the display font used in the US editions of Harry Potter. If you're interested in the official version, I found out that it's a font by Marcus Burlile called "Ablefont" in The Many Faces of Arnold - Lookalike Fonts, an enlightening article by Kevin Andrew Murphy for TBP!
